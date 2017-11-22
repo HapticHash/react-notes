@@ -2,6 +2,7 @@
   "name": "reactnotes",
   "version": "0.1.0",
   "private": true,
+   "homepage" : "https://harshitks2203.github.io/react-notes",
   "dependencies": {
     "firebase": "^4.6.2",
     "react": "^16.1.1",
